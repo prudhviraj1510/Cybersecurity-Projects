@@ -28,3 +28,9 @@ john --show --format=raw-md5 hash.txt
 
 The original password "hello123" was successfully recovered from the hash using a dictionary attack.
 
+## Key Learning
+
+- Weak passwords can be easily cracked using dictionary attacks  
+- Identifying the correct hash format is important  
+- Wordlists significantly improve attack efficiency  
+- Practical tools like John the Ripper are used in real-world security testing  
